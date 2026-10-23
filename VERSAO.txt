@@ -1,2 +1,2 @@
-Versão 0.9.53
-Feita a partir de https://github.com/sakura-corp/sakura-system-ace/commit/3dfe69cf06f8691755122aecc2fa8609386f7a4a
+Versão 0.9.54
+Feita a partir de https://github.com/sakura-corp/sakura-system-ace/commit/ca2625788f950c5790590ca0c95fbed4a326f17e
